@@ -1,0 +1,9 @@
+# Static apache2 files not needing to be tracked
+conf-available/
+conf-enabled/
+envvars
+magic
+mods-available/
+mods-enabled/
+sites-enabled/
+ssl/
